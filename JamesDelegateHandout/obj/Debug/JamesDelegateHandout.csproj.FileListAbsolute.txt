@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\bin\Debug\JamesDelegateHandout.exe.config
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\bin\Debug\JamesDelegateHandout.exe
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\bin\Debug\JamesDelegateHandout.pdb
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.exe
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.pdb
+c:\users\james\documents\visual studio 2013\Projects\JamesDelegateHandout\JamesDelegateHandout\obj\Debug\JamesDelegateHandout.TestForm.resources
